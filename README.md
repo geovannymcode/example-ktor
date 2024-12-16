@@ -1,4 +1,4 @@
-# Example-ktor
+# Ejemplo-ktor
 
 Es un ejemplo básico de ktor, creado desde el IDE intellij.
 
